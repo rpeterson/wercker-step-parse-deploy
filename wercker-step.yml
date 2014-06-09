@@ -1,5 +1,5 @@
 name: parse-deploy
-version: 0.0.3
+version: 0.0.4
 description: Install parse CLI and deploy to cloud code
 properties:
   target:
